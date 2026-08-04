@@ -54,7 +54,7 @@ Before starting this module, you should know:
 
 # 🎥 YouTube Playlist
 
-> Add the complete NumPy playlist link after publishing.
+> (https://www.youtube.com/playlist?list=PLBMDK0_xvsu0)
 
 ---
 
