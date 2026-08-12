@@ -39,10 +39,10 @@ Before starting this module, you should know:
 | Lecture | Topic | Status |
 |---------|-------|--------|
 | 01 | Course Introduction | ✅ Completed |
-| 02 | What is NumPy? | 🟡 In Progress |
-| 03 | Python Lists vs NumPy Arrays | ⏳ Coming Soon |
-| 04 | Installing NumPy | ⏳ Coming Soon |
-| 05 | Creating NumPy Arrays | ⏳ Coming Soon |
+| 02 | What is NumPy? | ✅ Completed |
+| 03 | Python Lists vs NumPy Arrays | ✅ Completed |
+| 04 | Installing NumPy | ✅ Completed |
+| 05 | Creating NumPy Arrays | 🟡 In Progress |
 | 06 | Array Attributes | ⏳ Coming Soon |
 | 07 | Indexing and Slicing | ⏳ Coming Soon |
 | 08 | Mathematical Operations | ⏳ Coming Soon |
@@ -78,6 +78,10 @@ After completing this module, you will have a solid understanding of NumPy and b
 
 ---
 
-# ➡️ Next Step
+# ➡️ Start Learning
 
-Start with **Lecture 01 – Course Introduction**.
+Start your NumPy journey with:
+
+**[Lecture 01 – Course Introduction](https://youtu.be/l2Gawsj4ZxM?si=CqsfVqUqlEFjlFKU)**
+
+Then continue through the lectures in sequence.
