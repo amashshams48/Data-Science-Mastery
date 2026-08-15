@@ -42,8 +42,8 @@ Before starting this module, you should know:
 | 02 | What is NumPy? | ✅ Completed |
 | 03 | Python Lists vs NumPy Arrays | ✅ Completed |
 | 04 | Installing NumPy | ✅ Completed |
-| 05 | Creating NumPy Arrays | 🟡 In Progress |
-| 06 | Array Attributes | ⏳ Coming Soon |
+| 05 | Creating NumPy Arrays | ✅ Completed |
+| 06 | Array Attributes | 🟡 In Progress |
 | 07 | Indexing and Slicing | ⏳ Coming Soon |
 | 08 | Mathematical Operations | ⏳ Coming Soon |
 | 09 | Broadcasting | ⏳ Coming Soon |
